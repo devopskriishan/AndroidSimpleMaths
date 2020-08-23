@@ -1,0 +1,2 @@
+rootProject.name='AndroidSimpleMaths'
+include ':app'
